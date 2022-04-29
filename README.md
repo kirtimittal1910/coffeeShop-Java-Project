@@ -1,1 +1,1 @@
-# coffeeShop-java-Project
+# coffeeShop-j2EE-project
